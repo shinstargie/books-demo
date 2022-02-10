@@ -2,9 +2,6 @@ one line
 second line
 third line
 forth line
-<<<<<<< HEAD
 fifth line
 sixth line
-=======
-This is a new line that we are testing
->>>>>>> new-list
+7th LINE
