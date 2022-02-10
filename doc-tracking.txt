@@ -2,3 +2,4 @@ one line
 second line
 third line
 forth line
+This is a new line that we are testing
